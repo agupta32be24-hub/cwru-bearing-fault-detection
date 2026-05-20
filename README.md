@@ -156,7 +156,7 @@ open cwru_dashboard_v2.html
 
 ## 👥 Team
 
-Developed as part of the **AI coursework at Thapar Institute of Engineering & Technology (2024–25)**.
+Developed as part of the **AI coursework at Thapar Institute of Engineering & Technology (2025–26)**.
 
 | Member | Roll No. |
 |---|---|
