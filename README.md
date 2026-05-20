@@ -1,3 +1,5 @@
+[README (1).md](https://github.com/user-attachments/files/28038964/README.1.md)
+
 # 🔧 CWRU Bearing Fault Detection — Predictive Maintenance
 
 > 10-class mechanical bearing fault detection using a CNN-LSTM hybrid model on the CWRU vibration dataset — **97.83% test accuracy** with SHAP explainability and an interactive analytics dashboard.
@@ -160,6 +162,7 @@ Developed as part of the **AI coursework at Thapar Institute of Engineering & Te
 |---|---|
 | Arnav Gupta | 1024030780 |
 | Divyam Mittal | 1024030008 |
+| Paarth Mendiratta | 1024030030 |
 
 ---
 
@@ -168,4 +171,3 @@ Developed as part of the **AI coursework at Thapar Institute of Engineering & Te
 - [CWRU Bearing Data Center](https://engineering.case.edu/bearingdatacenter)
 - [SHAP Documentation](https://shap.readthedocs.io/)
 - [TensorFlow Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
-[README.md](https://github.com/user-attachments/files/28038702/README.md)
